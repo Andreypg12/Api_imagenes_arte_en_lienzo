@@ -13,7 +13,7 @@
         {
             "nombre": "CuadroMascotaindex",
             "descripcion": "Obra de arte de una mascota",
-            "imagen": "https://andreypg12.github.io/Api_imagenes_arte_en_lienzo/img/cuadromascota14.png"
+            "imagen": "https://andreypg12.github.io/Api_imagenes_arte_en_lienzo/img/Cuadromascota14.png"
         },
         {
             "nombre": "ImagenYoen",
@@ -130,7 +130,7 @@
             "alt": "Cuadro de mascota",
             "clase": "full-height",
             "categoria": "derecha",
-            "imagen": "https://andreypg12.github.io/Api_imagenes_arte_en_lienzo/img/cuadromascota13.png"
+            "imagen": "https://andreypg12.github.io/Api_imagenes_arte_en_lienzo/img/Cuadromascota13.png"
         }
     ],
     "imagenesCarouselGaleriaImagenes": [
@@ -254,72 +254,72 @@
         },
         {
             "categoria": "Cuadros de mascotas",
-            "imagen": "https://andreypg12.github.io/Api_imagenes_arte_en_lienzo/img/cuadroMascota3.png",
+            "imagen": "https://andreypg12.github.io/Api_imagenes_arte_en_lienzo/img/CuadroMascota3.png",
             "precio": "28000"
         },
         {
             "categoria": "Cuadros de mascotas",
-            "imagen": "https://andreypg12.github.io/Api_imagenes_arte_en_lienzo/img/cuadroMascota4.png",
+            "imagen": "https://andreypg12.github.io/Api_imagenes_arte_en_lienzo/img/CuadroMascota4.png",
             "precio": "33000"
         },
         {
             "categoria": "Cuadros de mascotas",
-            "imagen": "https://andreypg12.github.io/Api_imagenes_arte_en_lienzo/img/cuadroMascota5.png",
+            "imagen": "https://andreypg12.github.io/Api_imagenes_arte_en_lienzo/img/CuadroMascota5.png",
             "precio": "28000"
         },
         {
             "categoria": "Cuadros de mascotas",
-            "imagen": "https://andreypg12.github.io/Api_imagenes_arte_en_lienzo/img/cuadroMascota6.png",
+            "imagen": "https://andreypg12.github.io/Api_imagenes_arte_en_lienzo/img/CuadroMascota6.png",
             "precio": "31000"
         },
         {
             "categoria": "Cuadros de mascotas",
-            "imagen": "https://andreypg12.github.io/Api_imagenes_arte_en_lienzo/img/cuadroMascota7.png",
+            "imagen": "https://andreypg12.github.io/Api_imagenes_arte_en_lienzo/img/CuadroMascota7.png",
             "precio": "25000"
         },
         {
             "categoria": "Cuadros de mascotas",
-            "imagen": "https://andreypg12.github.io/Api_imagenes_arte_en_lienzo/img/cuadroMascota8.png",
+            "imagen": "https://andreypg12.github.io/Api_imagenes_arte_en_lienzo/img/CuadroMascota8.png",
             "precio": "133000"
         },
         {
             "categoria": "Cuadros de mascotas",
-            "imagen": "https://andreypg12.github.io/Api_imagenes_arte_en_lienzo/img/cuadroMascota9.png",
+            "imagen": "https://andreypg12.github.io/Api_imagenes_arte_en_lienzo/img/CuadroMascota9.png",
             "precio": "380000"
         },
         {
             "categoria": "Cuadros de mascotas",
-            "imagen": "https://andreypg12.github.io/Api_imagenes_arte_en_lienzo/img/cuadroMascota10.png",
+            "imagen": "https://andreypg12.github.io/Api_imagenes_arte_en_lienzo/img/CuadroMascota10.png",
             "precio": "30000"
         },
         {
             "categoria": "Cuadros de mascotas",
-            "imagen": "https://andreypg12.github.io/Api_imagenes_arte_en_lienzo/img/cuadroMascota11.png",
+            "imagen": "https://andreypg12.github.io/Api_imagenes_arte_en_lienzo/img/CuadroMascota11.png",
             "precio": "30000"
         },
         {
             "categoria": "Cuadros de mascotas",
-            "imagen": "https://andreypg12.github.io/Api_imagenes_arte_en_lienzo/img/cuadroMascota12.png",
+            "imagen": "https://andreypg12.github.io/Api_imagenes_arte_en_lienzo/img/CuadroMascota12.png",
             "precio": "42500"
         },
         {
             "categoria": "Cuadros de mascotas",
-            "imagen": "https://andreypg12.github.io/Api_imagenes_arte_en_lienzo/img/cuadroMascota13.png",
+            "imagen": "https://andreypg12.github.io/Api_imagenes_arte_en_lienzo/img/CuadroMascota13.png",
             "precio": "26500"
         },
         {
             "categoria": "Cuadros de mascotas",
-            "imagen": "https://andreypg12.github.io/Api_imagenes_arte_en_lienzo/img/cuadroMascota14.png",
+            "imagen": "https://andreypg12.github.io/Api_imagenes_arte_en_lienzo/img/CuadroMascota14.png",
             "precio": "33000"
         },
         {
             "categoria": "Cuadros de mascotas",
-            "imagen": "https://andreypg12.github.io/Api_imagenes_arte_en_lienzo/img/cuadroMascota15.png",
+            "imagen": "https://andreypg12.github.io/Api_imagenes_arte_en_lienzo/img/CuadroMascota15.png",
             "precio": "41500"
         },
         {
             "categoria": "Cuadros de mascotas",
-            "imagen": "https://andreypg12.github.io/Api_imagenes_arte_en_lienzo/img/cuadroMascota16.png",
+            "imagen": "https://andreypg12.github.io/Api_imagenes_arte_en_lienzo/img/CuadroMascota16.png",
             "precio": "29000"
         },
         {
