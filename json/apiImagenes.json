@@ -49,6 +49,11 @@
             "nombre": "ImagenFooter",
             "descripcion": "Imagen del footer",
             "imagen": "https://andreypg12.github.io/Api_imagenes_arte_en_lienzo/img/imagenFooter.png"
+        },
+        {
+            "nombre": "FondoAutores",
+            "descripcion": "Imagen de fondo de autores",
+            "imagen": "https://andreypg12.github.io/Api_imagenes_arte_en_lienzo/img/imagenAutores2.jpg"
         }
     ],
     "galeriaImagenes": [
