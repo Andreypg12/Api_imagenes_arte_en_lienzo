@@ -62,7 +62,7 @@
         },
         {
             "nombre": "Cuadros de mascotas",
-            "imagen": "https://andreypg12.github.io/Api_imagenes_arte_en_lienzo/img/cuadroMascota16.png"
+            "imagen": "https://andreypg12.github.io/Api_imagenes_arte_en_lienzo/img/CuadroMascota16.png"
         },
         {
             "nombre": "Personas y retratos",
@@ -70,7 +70,7 @@
         },
         {
             "nombre": "Mini cuadros",
-            "imagen": "https://andreypg12.github.io/Api_imagenes_arte_en_lienzo/img/cuadromascotapequeño6.png"
+            "imagen": "https://andreypg12.github.io/Api_imagenes_arte_en_lienzo/img/CuadroMascotaPequeño6.png"
         },
         {
             "nombre": "Cuadros de vehículos",
