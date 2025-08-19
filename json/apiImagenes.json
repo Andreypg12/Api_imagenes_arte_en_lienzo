@@ -13,7 +13,7 @@
         {
             "nombre": "CuadroMascotaindex",
             "descripcion": "Obra de arte de una mascota",
-            "imagen": "https://andreypg12.github.io/Api_imagenes_arte_en_lienzo/img/Cuadromascota14.png"
+            "imagen": "https://andreypg12.github.io/Api_imagenes_arte_en_lienzo/img/CuadroMascota14.png"
         },
         {
             "nombre": "ImagenYoen",
@@ -122,7 +122,7 @@
             "alt": "Cuadro en miniatura de gatito",
             "clase": "large-bottom",
             "categoria": "centro",
-            "imagen": "https://andreypg12.github.io/Api_imagenes_arte_en_lienzo/img/cuadroMascotaPequeño2.png"
+            "imagen": "https://andreypg12.github.io/Api_imagenes_arte_en_lienzo/img/CuadroMascotaPequeño2.png"
         },
         {
             "nombre": "Mascotas",
@@ -130,7 +130,7 @@
             "alt": "Cuadro de mascota",
             "clase": "full-height",
             "categoria": "derecha",
-            "imagen": "https://andreypg12.github.io/Api_imagenes_arte_en_lienzo/img/Cuadromascota13.png"
+            "imagen": "https://andreypg12.github.io/Api_imagenes_arte_en_lienzo/img/CuadroMascota13.png"
         }
     ],
     "imagenesCarouselGaleriaImagenes": [
